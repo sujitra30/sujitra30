@@ -1,16 +1,38 @@
-## Hi there 👋
+#Hello! 👋
 
-<!--
-**sujitra30/sujitra30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sujitra Hunngam
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Engineering | Passionate about Coding & Tech
+
+
+Frontend Developer / Backend Developer   
+
+---
+
+## 🛠 ทักษะ
+- **Frontend:** HTML, CSS, JavaScript, React, React Native, Expo
+- **Backend:** Node.js, Express, Prisma
+- **AI / Machine Learning:** Python, OpenCV, YOLO, TensorRT
+- **Database:** MySQL, SQLite
+- **อื่น ๆ:** Git, GitHub, REST API, LINE Notify
+
+---
+
+## 💼 ประสบการณ์ / โปรเจกต์ที่น่าสนใจ
+- ระบบตรวจจับหน้าและเช็คชื่ออัตโนมัติสำหรับนักศึกษา (Face Recognition Attendance System)
+- แอปติดตามการเดินทางของรถไฟ พร้อมแจ้งเตือนเวลาถึงสถานี
+- ระบบวิเคราะห์อารมณ์ด้วย AI
+
+---
+
+## 📫 ติดต่อ
+- Email: sujitra.hunngam@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sujitra-hunngam-805236381/   
+- GitHub: [github.com/username](https://github.com/username)  
+
+---
+
+## ⚡ สิ่งที่ผมสนใจ
+- พัฒนาเว็บและแอปพลิเคชันที่ใช้งานง่าย
+- การเรียนรู้เทคโนโลยีใหม่ ๆ และการแก้ปัญหาที่ท้าทาย
