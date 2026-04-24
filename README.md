@@ -11,13 +11,21 @@ Frontend Developer / Backend Developer
 ---
 
 ## 🛠 ทักษะ
-- **Frontend:** HTML, CSS, JavaScript, React, React Native, Expo
-- **Backend:** Node.js, Express, Prisma
+- **Frontend:** HTML, CSS, JavaScript, React, React Native, TypeScript
+- **Backend:** Node.js, Express, Prisma, .NET Core, .NET Framwork
 - **AI / Machine Learning:** Python, OpenCV, YOLO, TensorRT
-- **Database:** MySQL, SQLite
-- **อื่น ๆ:** Git, GitHub, REST API, LINE Notify
+- **Database:** PostgreSQL, SQL Server
+- **Programming** TypeScript, JavaScript, SQL, C#
+- **Tools** Git, Swagger
+- **อื่น ๆ:** RESTful API
 
 ---
+## 💼 ประสบการณ์ฝึกงาน
+- ระบบติดตามงานบริการ V2.0 (Service Tracking Systems V2.0)
+- มีส่วนร่วมในการพัฒนาระบบองค์กรที่กำลังใช้งานอยู่ โดยแก้ไขข้อผิดพลาด (bug) ปรับปรุง PostgreSQL Stored Procedures (SP) เพื่อเพิ่มประสิทธิภาพในการประมวลผลข้อมูลและการออกรายงาน Excel รวมถึงปรับปรุงกระบวนการทำงานให้สอดคล้องกับความต้องการของลูกค้า
+- พัฒนาโมดูล Knowledge Base ที่เชื่อมต่อกับระบบ STS โดยใช้ .NET C# และ TypeScript โดยมีฟีเจอร์การจัดการบทความและการค้นหาแบบ Full-text เพื่อสนับสนุนการดำเนินงานด้านบริการ
+- รวบรวมและวิเคราะห์ความต้องการจากลูกค้า เพื่อให้มั่นใจว่าฟีเจอร์ที่พัฒนาสอดคล้องกับการใช้งานจริง
+
 
 ## 💼 ประสบการณ์ / โปรเจกต์ที่น่าสนใจ
 - ระบบตรวจจับหน้าและเช็คชื่ออัตโนมัติสำหรับนักศึกษา (Face Recognition Attendance System)
